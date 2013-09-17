@@ -8,7 +8,7 @@ use 5.008;
 use Attribute::Lexical ();
 use threads::variables::reap;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 sub import
 {
